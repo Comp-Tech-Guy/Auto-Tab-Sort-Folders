@@ -1,1 +1,1 @@
-# Auto-Tab-Sort-Folders-
+# Auto-Tab-Sort-Folders
